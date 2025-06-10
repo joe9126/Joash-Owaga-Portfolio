@@ -1,0 +1,28 @@
+#app {
+  margin: 0;
+  padding: 0;
+  background-color: #333 rgba(0, 0, 0.3, 0.3) !important;
+  color: #f1f1f1;
+}
+body.dark-mode {
+  background-color: rgba(var(--bs-dark-rgb), var(--bs-bg-opacity)) !important;
+  --bs-bg-opacity: 1;
+  color: #f1f1f1 !important;
+}
+body.dark-mode a {
+  color: #9be5ff;
+}
+
+body.dark-mode .navbar {
+  border-bottom: 1px solid #333;
+}
+a.dark-mode:hover {
+  width: 2em;
+  padding: 2em;
+  background-color: #9be5ff;
+  color: #333;
+}
+
+.navbar ul li a {
+  color: #f1f1f1;
+}
