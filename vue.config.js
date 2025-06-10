@@ -7,7 +7,7 @@ module.exports = {
   pages: {
     index: {
       entry: "src/main.js",
-      title: "Joash Asewe Portfolio",
+      title: "Joash Asewe Full Stack Developer",
     },
   },
 };
