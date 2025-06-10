@@ -1,7 +1,7 @@
 <script setup>
 import { ref, computed, watch } from "vue";
 
-const title = ref("Joe Owaga");
+const title = ref("Joe Asewe");
 const darkMode = ref(false);
 const bgColor = computed(() =>
   darkMode.value ? "bg-dark btn-outline-light" : "bg-light btn-outline-dark"
