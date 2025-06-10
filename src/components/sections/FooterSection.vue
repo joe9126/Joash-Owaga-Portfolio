@@ -4,14 +4,14 @@
       <p class="mb-1">&copy; {{ currentYear }} Joash Owaga. All rights reserved.</p>
       <div class="social-links mt-2">
         <a
-          href="https://github.com/joash-owaga"
+          href="https://github.com/joe9126"
           target="_blank"
           class="me-3 text-decoration-none"
         >
           <i class="fab fa-github fa-lg"></i>
         </a>
         <a
-          href="https://linkedin.com/in/joash-owaga"
+          href="https://www.linkedin.com/in/joash-owaga-662662360/"
           target="_blank"
           class="me-3 text-decoration-none"
         >
