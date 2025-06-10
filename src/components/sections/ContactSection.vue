@@ -24,7 +24,7 @@
         </div>
         <div>
           <i class="fab fa-github text-info me-2"></i>
-          <a href="https://www.linkedin.com/in/joash-owaga" target="_blank">Git Hub</a>
+          <a href="https://www.linkedin.com/in/joash-owaga-662662360/" target="_blank">Git Hub</a>
         </div>
       </div>
     </div>

@@ -99,4 +99,8 @@ body.dark-mode .navbar .container .collapse ul li a:hover {
 .toggleBg {
   border: none;
 }
+body.dark-mode .toggleBg{
+color: #ccc;
+border: 1px solid #ccc;
+}
 </style>
