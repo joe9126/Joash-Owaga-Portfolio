@@ -1,5 +1,5 @@
 <template>
-  <footer class="footer-section py-4 mt-5">
+  <footer class="footer-section py-4">
     <div class="container text-center">
       <p class="mb-1">&copy; {{ currentYear }} Joash Owaga. All rights reserved.</p>
       <div class="social-links mt-2">
@@ -34,8 +34,8 @@ const currentYear = new Date().getFullYear();
 
 <style scoped>
 .footer-section {
-  background-color: #f0f0f0;
-  color: #333;
+   background-color: #cfd1d3;
+   color: #333;
   transition: background-color 0.3s ease, color 0.3s ease;
   font-size: 0.95rem;
 }
